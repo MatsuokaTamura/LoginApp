@@ -11,7 +11,6 @@ import UIKit
 class WelcomeViewController: UIViewController {
     
     @IBOutlet var welcomeLabel: UILabel!
-    
     var user = ""
     
     private let primaryColor = UIColor(
